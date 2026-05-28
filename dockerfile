@@ -1,3 +1,2 @@
-git
-docker
-ci-cd
+from
+add
